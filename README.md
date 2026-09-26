@@ -126,3 +126,7 @@ We also provide the following partial bridges to other messaging platforms:
 [test/README.md]: https://github.com/rizinorg/rizin/blob/dev/test/README.md
 [BUILDING.md]: https://github.com/rizinorg/rizin/blob/dev/BUILDING.md
 [DEVELOPERS.md]: https://github.com/rizinorg/rizin/blob/dev/DEVELOPERS.md
+
+
+temporary git practice
+
